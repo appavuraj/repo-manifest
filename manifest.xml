@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="appavuraj-github" fetch="ssh://git@github.com/" />
+  <project name="appavuraj/Docker_training" path="exercise/ci/docker" remote="appavuraj-github" revision="master" upstream="master" />
+  <project name="appavuraj/learning_cpp" path="exercise/program/cpp" remote="appavuraj-github" revision="main" upstream="main" /> 
+</manifest>
